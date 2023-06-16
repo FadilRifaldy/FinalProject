@@ -1,2 +1,4 @@
 # FinalProject
-Final Project_1301204330_1301204317
+Final Project
+Fadil Rifaldy - 1301204330
+M Faisal Zaenudin - 1301204317
